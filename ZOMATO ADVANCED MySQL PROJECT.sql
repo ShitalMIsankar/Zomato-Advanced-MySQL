@@ -1,4 +1,4 @@
--- Business Insight
+-- Business Insights
 -- ─────────────────────────────────────────────────────────────
 -- Q1. Most Frequently Ordered Dishes by a Specific Customer
 --     in the Last Year
